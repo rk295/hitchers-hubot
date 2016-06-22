@@ -12,5 +12,6 @@
   "hubot-insulter",
   "hubot-reload-scripts",
   "hubot-tube-status",
-  "hubot-giphy"
+  "hubot-giphy",
+  "hubot-dns-watch"
 ]
