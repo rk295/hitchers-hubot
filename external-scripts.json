@@ -13,5 +13,6 @@
   "hubot-reload-scripts",
   "hubot-tube-status",
   "hubot-giphy",
+    "hubot-scripts-stock",
   "hubot-dns-watch"
 ]
